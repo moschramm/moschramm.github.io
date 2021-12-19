@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Language Models in Bioinformatics
+description: This blog is about using Language Models (LM) in field of bioinfomatics. Its main focus is on the usage of LM for Relation Extraction (RE). At the same time it will give an overview about LM used in bioinformatics in general.
+github_username: moschramm
 
 # Email and twitter are optional:
 email:
